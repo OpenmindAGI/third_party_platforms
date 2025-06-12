@@ -32,9 +32,7 @@ unitree@Host:~$ conda activate tv
 ## 2.1 📥 basic
 
 ```bash
-(tv) unitree@Host:~$ cd ~
-(tv) unitree@Host:~$ git clone https://github.com/unitreerobotics/avp_teleoperate.git 
-(tv) unitree@Host:~$ cd ~/avp_teleoperate
+(tv) unitree@Host:~$ cd robot/avp_teleoperate
 (tv) unitree@Host:~$ pip install -r requirements.txt
 ```
 
